@@ -1,0 +1,2 @@
+
+egrep -c '(vmx | svm)' /proc/cpuinfo

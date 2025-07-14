@@ -1,0 +1,2 @@
+
+echo stdpath("config")

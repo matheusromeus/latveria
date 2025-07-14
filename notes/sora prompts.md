@@ -1,0 +1,15 @@
+“Create a 4K high-detail image that merges the artistic style, color palette, and texture of the first reference image with the subject and composition of the second image to create a distinct personal brand identity. Set against a minimal off-white background ([#F4F4F2](https://x.com/hashtag/F4F4F2?src=hashtag_click)) for contrast, with accent color [#EB6521](https://x.com/hashtag/EB6521?src=hashtag_click) featured prominently in the lighting, highlights, and key design elements. While maintaining the second image's original mood, reimagine it using the first image's vintage, textured aesthetic. Add depth through layered shading and subtle retro tones. The final piece should evoke the handcrafted quality, creating a cohesive and expressive visual statement.”
+
+Grungy analog photo of Guts (Berserk) in 1998 watching Berserk on a 90s CRT TV in a dimly lit bedroom. He is sitting on the floor wearing his black swordsman armor, massive sword leaning nearby, looking back at the camera taking the photo with a grim, intense expression, while the anime plays in the background, visible to us. Flash photography, unedited.
+
+Black and white, overhead surveillance camera view, fisheye lens. A young woman with fair skin, short black hair, and a slender figure stands at the entrance of an apartment home. She is wearing jeans and a short-sleeved, cropped top, blowing bubble gum playfully toward the camera. Slight visual noise and grain texture, subtle distortion from the lens, cheeky expression, urban residential vibe, cinematic framing, high contrast shadows, --v 5 --ar 3:2 --style raw
+
+Make the image grainy as if they took the picture in the 90’s. Make the flash visible 
+
+Grungy analog photo of Duke Nukem  in 2000 playing Duke Nukem 3D on a 90s CRT TV in a dimly lit bedroom. He sitting by his desk in front of n old computer one hand and looking back at the camera taking the photo while the game is on in the background visible to us. Flash photography, unedited. più muscoloso
+
+Vogue magazine photography of Lilou and corben walas in 5 ème éléments on the cover of VOGUE magazine. Lilou and corben walas is posing. Cinematic lighting. Vogue logo at the top, fashion magazine layout, minimalist background, professional photography style. Do not put any other writing other than the VOGUE title on the top behind the model.
+
+Dramatic high-speed crash of Charles Leclerc in a Ferrari Formula 1 car during a Grand Prix, debris flying, smoke and sparks, intense motion blur, realistic environment, crowd in shock
+
+a lo-fi, vhs style photo of no clear subject or framing—just a careless snapshot. Motion blur, uneven sunset light, overexposed edges. The angle is low and awkward, like it was taken without looking, just set down mid-thought, shot on a Panasonic AG-456 S-VHS in 1999 with a fish eye . A stunningly beautiful organic Tumblr girl. She’s looking down. She isn’t posing—she just is. The sunlight hits her softly, warm but messy. There’s a light pink tint from a disposable camera filter, Tumblr girl aesthetic, and a nostalgic grain.

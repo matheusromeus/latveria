@@ -1,0 +1,2 @@
+
+Smart Compose uses JavaScript to insert a `<span></span>` element immediately after the word you are writing when it detects a phrase to suggest. The span element contains only the characters of the suggestion that have not been typed.

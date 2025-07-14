@@ -1,0 +1,5 @@
+- run the code locally and test out the functionality even before looking at the code. If it doesn't work, then there's no point of reviewing
+- look over the new code line by line
+- ask clarifying questions
+- meet up to go over large reviews
+- do the reviews in the morning

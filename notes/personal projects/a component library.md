@@ -1,0 +1,1 @@
+publish it as an npm package.

@@ -1,0 +1,6 @@
+
+the future is for the deep divers. this is something i recognised while i spent countless hours trying to upskill myself into every piece of technology. i have this obsession of perfection and order. and this insanity has crept up in many parts of my life. from studying subjects to my wardrobe, to my desktop home to my working table. i am yet to tame this beast but I do recognize the downfalls i've had to face due to this. when studying subjects this probably translates into knowing everything I possibly can before applying it or using it in a large scale. this brought me to the depths and potentially unneccessary sources of information. 
+
+so, why is it important to go deep into a subject? because that is what never changes. every field, every technology, deep down follow the same fundamentals. the same maths and the same physics we studied in high school. why does history repeat? why do people repeat? because we are driven by the same set of principles that drove us hundreds or thousands of years ago. 
+
+trends will come and go. it's like a surf wave. some ride it, some drown in it, some are still learning how to get on a surfboard. in whatever phase you are, remeber your fundamentals. make sure you have a firm grasp on it. whatever the people say, however messed up the job market is, 
