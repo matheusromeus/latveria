@@ -54,3 +54,53 @@ set nth in apache
 user.name=kevin-work
 user.email=kevin@m0.ventures
 
+
+---
+
+cookies - very small pieces of data stored on the client side to identify users
+
+http is **stateless**, cookies are used to implement **sessions**. 
+
+- keep track of the current authenticated user
+- storing contents of a shopping cart
+- tracking users
+
+you can do stuff without being logged in, like in the second example, and that is a usage of a cookie, can also use to store user preferences
+
+cookie is set as a header. key-value pair
+it also has other properties like expires, max-age
+
+
+i can edit the cookie and give another one in my cookies console and act as another person. so never store cookie values in plain text. like sensitive data, not other things. refer signing a cookie.
+
+sessions
+- they put a layer between you and your identity.
+- tying a unique identifier for the current session you are in.
+- if users will be able to read the cookie data, then everyone will have to change their password
+- If a cookie doesn't have the `HttpOnly` flag, JavaScript can access it directly through `document.cookie`. it keeps your cookie away from js
+- there are many ways attackers can get access to your instance of document.cookie or localStorage
+- but man in the middle attacks can happen because its not https, for that set secure:true
+
+we can also sign the cookie, for that signing part, you have to have a secret variable, store it in .env . set signed = true for that certain cookie value.
+
+signing != encryption
+
+encryption is hiding the value, but signing is just making sure that the value has not been tampered (modified) with. thats why replay attacks are possible. 
+
+like with same signature, for different input the output is different, not just the known part the gibberish part will also change.
+
+**you can theoretically create a session before the user logs in, so you can tie the activities they did before to after they have logged in.**
+
+we can now terminate sessions. like clear of other sessions from other logged in devices etc. you have to store sessions somewhere. 
+
+same origin policy - restricts how documents or scripts from one origin interact with that of other origins. this is the basis of CORS issues
+
+the origin = protocol + domain + port
+
+**same-site and same origin is different**
+
+
+cookies have some vulnerabilites
+- session hijacking
+- XSS
+- CSRF

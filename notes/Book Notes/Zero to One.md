@@ -1,4 +1,4 @@
-# by Peter Thiel
+### by Peter Thiel
 
 There are two types of progress. Horizontal and Vertical.
 Vertical - 0 to 1 - technology

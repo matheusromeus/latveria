@@ -1,13 +1,3 @@
-- [ ] learn japanese
-- [ ] frontend interview style
-- [ ] leetcode
-- [ ] backend nest js
-- [ ] learn maths
-- [ ] learn physics
-- [ ] learn philosophy
-- [ ] learn theology
-- [ ] 
-
 learn history, read sapiens. history repeats. but it may look different. how would you identify it?
 
 what happened in germany? what happened to athens?

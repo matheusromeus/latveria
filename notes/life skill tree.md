@@ -1,7 +1,6 @@
 - personal productivity
 	- vim
 	- touch typing
-	- cooking
 	- journalling
 	- weightlifting
 	- cardio
@@ -19,11 +18,6 @@
 - learn literature
 - learn history
 - learn basic medicine
-
-- full stack development
-- deep, interview style JS,TS
-- leetcode & DSA
-- embedded systems development
 
 ![[CS.png]]
 
